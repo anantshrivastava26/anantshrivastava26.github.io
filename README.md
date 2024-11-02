@@ -1,1 +1,1 @@
-![Developer Portoflio](https://github.com/anantshrivastava26/My-Portfolio/blob/main/Developer%20Portolio%20Website.png)
+![Developer Portoflio](https://github.com/anantshrivastava26/anantshrivastava26.github.io/blob/main/Developer%20Portolio%20Website.png)
